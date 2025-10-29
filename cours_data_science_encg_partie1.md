@@ -2,7 +2,7 @@
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
-<img src="encg.jpeg" style="height:264px;margin-right:232px"/>
+<img src="EL BAKRAOUI Hayat (1).jpeg" style="height:264px;margin-right:232px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
