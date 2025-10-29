@@ -1,5 +1,5 @@
 # COURS DE SCIENCE DES DONNÉES
-## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
+## EL BAKRAOUI Hayat École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 ---
 <img src="encg.png" style="height:464px;margin-right:432px"/>
