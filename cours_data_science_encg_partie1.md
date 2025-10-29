@@ -3,7 +3,7 @@
 
 ---
 <img src="encg.png" style="height:164px;margin-right:132px"/>
-<img src="EL BAKRAOUI Hayat (1).jpg" style="height:264px;margin-right:232px"/>
+<img src="EL BAKRAOUI Hayat (1).jpg" style="height:164px;margin-right:132px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
