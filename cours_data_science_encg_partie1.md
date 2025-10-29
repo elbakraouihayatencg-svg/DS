@@ -1,6 +1,6 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-
+https://tse3.mm.bing.net/th/id/OIP.uGcHPl5UHbNsoL-YGJ70pgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3
 ---
 <img src="EL BAKRAOUI Hayat (1).jpg" style="height:264px;margin-right:232px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
